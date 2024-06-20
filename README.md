@@ -4,6 +4,14 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wender-fabiano-848a28260/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wender_fabiano/)
 
+<b>Meu GitHub</b>
+<div align="start">
+  <a href="https://github.com/Wenderf5">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wenderf5&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wenderf5&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
+
 ### Skills
 
 <div style="display: inline_block">
