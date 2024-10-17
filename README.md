@@ -35,7 +35,7 @@ valores que levo para todos os meus projetos.
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
 
-### Meu GitHub
+<b>Meu GitHub</b>
 <div align="start">
   <a href="https://github.com/Wenderf5">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wenderf5&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true"/>
