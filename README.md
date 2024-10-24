@@ -4,7 +4,7 @@
 Desenvolvedor Web
 ------------------
 
-Olá, eu sou Wender Fabiano, desenvolvedor web com foco no desenvolvimento full-stack. Minha stack é voltada principalmente ao JavaScript, mas também estou estudando Java. No front-end, utilizo React.js, TypeScript e CSS Modules para criar interfaces dinâmicas e responsivas. No back-end, trabalho com Node.js, Nest.js, Express e TypeScript para desenvolver APIs e sistemas eficientes. Tenho conhecimento em bancos de dados SQL, o que me permite gerenciar dados de maneira eficaz, e utilizo GIT para o versionamento de projetos. Destaco-me pela minha capacidade de resolver problemas e pela comunicação clara, sempre buscando entregar soluções de alta qualidade.
+Olá, eu sou Wender Fabiano, desenvolvedor web com foco no desenvolvimento full-stack. Minha stack é voltada principalmente ao JavaScript, mas também estou estudando Java. No front-end, utilizo React.js, TypeScript e CSS Modules para criar interfaces dinâmicas e responsivas. No back-end, trabalho com Node.js, Nest.js, Express e TypeScript para desenvolver APIs e sistemas eficientes. Tenho conhecimento em bancos de dados SQL, o que me permite gerenciar dados de maneira eficaz, e utilizo GIT para o versionamento de projetos.
 
 
 
