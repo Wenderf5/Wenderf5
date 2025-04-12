@@ -9,7 +9,7 @@ Olá, eu sou Wender Fabiano, desenvolvedor com foco no desenvolvimento full-stac
 
 
 * ✉️  Você pode me encontrar por aqui [wenderfabianoalves@gmail.com](mailto:wenderfabianoalves@gmail.com)
-* 🧠  Estou aprendendo Java
+* 🧠  Codar é transformar lógica em solução
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://portfoliowenderfabiano.vercel.app)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wender-fabiano-848a28260/)
