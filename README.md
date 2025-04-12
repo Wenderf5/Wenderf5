@@ -1,10 +1,10 @@
 ## Olá! Eu sou Wender Fabiano 🖐️
 ============================
 
-Desenvolvedor Web
+Full-Stack Developer
 ------------------
 
-Olá, eu sou Wender Fabiano, desenvolvedor web com foco no desenvolvimento full-stack. Minha stack é voltada principalmente ao JavaScript, mas também estou estudando Java. No front-end, utilizo React.js, TypeScript e CSS Modules para criar interfaces dinâmicas e responsivas. No back-end, trabalho com Node.js, Nest.js, Express e TypeScript para desenvolver APIs e sistemas eficientes. Tenho conhecimento em bancos de dados SQL, o que me permite gerenciar dados de maneira eficaz, e utilizo GIT para o versionamento de projetos.
+Olá, eu sou Wender Fabiano, desenvolvedor com foco no desenvolvimento full-stack com as linguagens Java e JavaScript. No front-end, utilizo React.js, Next.js, TypeScript e CSS Modules para criar interfaces dinâmicas e responsivas. No back-end, trabalho com Java, Spring Boot, Node.js, Nest.js, Express e TypeScript para desenvolver APIs e sistemas eficientes. Tenho conhecimento em bancos de dados SQL e NoSQL, o que me permite gerenciar dados de maneira eficaz, e utilizo GIT para o versionamento de projetos.
 
 
 
@@ -24,6 +24,8 @@ Olá, eu sou Wender Fabiano, desenvolvedor web com foco no desenvolvimento full-
   <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <br/>
    <br/>
+  <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
