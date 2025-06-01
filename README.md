@@ -1,7 +1,7 @@
 ## Olá! Eu sou Wender Fabiano 🖐️
 ============================
 
-Full-Stack Develop
+Full-Stack Developer
 ------------------
 
 Olá, eu sou Wender Fabiano, desenvolvedor com foco no desenvolvimento full-stack com as linguagens Java e JavaScript. No front-end, utilizo React.js, Next.js, TypeScript e CSS Modules para criar interfaces dinâmicas e responsivas. No back-end, trabalho com Java, Spring Boot, Node.js, Nest.js, Express e TypeScript para desenvolver APIs e sistemas eficientes. Tenho conhecimento em bancos de dados SQL e NoSQL, o que me permite gerenciar dados de maneira eficaz, e utilizo GIT para o versionamento de projetos.
