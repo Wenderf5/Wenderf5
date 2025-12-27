@@ -6,8 +6,6 @@ Full-Stack Developer
 
 Olá, eu sou Wender Fabiano, desenvolvedor Full Stack com experiência no desenvolvimento de aplicações utilizando o ecossistema Java e JavaScript. No Front-end, utilizo TypeScript, React.js, Next.js, JSP e boas práticas de UI para criar interfaces dinâmicas e responsivas. No Back-end utilizo Java (Spring Boot, JAX-RS, CDI, EJB, JPA) e Node.js (NestJS, Express.js) para desenvolver APIs e sistemas robustos. Também possuo conhecimentos sólidos em bancos de dados SQL (MySQL, PostgreSQL) e NoSQL (MongoDB), experiência com cache e mensageria usando Redis e RabbitMQ além do versionamento de código com Git.
 
-
-
 * ✉️  Você pode me encontrar por aqui [wenderfabianoalves@gmail.com](mailto:wenderfabianoalves@gmail.com)
 * 🧠  Codar é transformar lógica em solução
 
